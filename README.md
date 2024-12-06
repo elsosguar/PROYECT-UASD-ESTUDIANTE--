@@ -1,7 +1,7 @@
 Sistema de Selección de Materias UASD
 
-Descripción
-Este proyecto automatiza el proceso de búsqueda y procesamiento de datos relacionados con la selección de materias y cursos en la UASD (Universidad Autónoma de Santo Domingo). Utiliza una combinación de Selenium, requests, y BeautifulSoup para capturar información dinámica de la página oficial y generar resultados procesados.
+Este proyecto automatiza el proceso de búsqueda y procesamiento de datos relacionados con la selección de materias y cursos en la Universidad Autónoma de Santo Domingo (UASD). Utiliza herramientas modernas como Selenium, Requests y BeautifulSoup para interactuar con la página web oficial y generar resultados procesados.
+
 
 Características Principales
 Captura Dinámica de Datos:
