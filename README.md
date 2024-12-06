@@ -26,15 +26,26 @@ Incluye un botón para finalizar el programa y abrir hipervínculos relevantes.
 Optimización del Rendimiento:
 
 Implementa caché para evitar solicitudes repetitivas al repositorio.
+
 Utiliza procesamiento paralelo para acelerar la búsqueda y el análisis.
+
 Tecnologías Utilizadas
+
 Python: Lenguaje principal.
+
 Selenium: Captura dinámica de datos web.
+
 Requests: Solicitudes HTTP para obtener datos JSON.
+
 BeautifulSoup: Análisis y extracción de datos HTML.
+
 Tkinter: Creación de la interfaz gráfica.
+
 Concurrent Futures: Procesamiento paralelo para mejorar el rendimiento.
+
+
 Cómo Funciona
+
 Inicio del Programa:
 
 El navegador Selenium se abre y el sistema espera hasta que el usuario navegue a la página de referencia correcta.
@@ -53,12 +64,19 @@ Interfaz Gráfica:
 Permite finalizar la ejecución del programa con un solo clic y acceder a enlaces relevantes.
 
 Requisitos Previos
+
 Python 3.8+: Asegúrate de tener Python instalado en tu sistema.
+
 Dependencias:
+
 Selenium
+
 Requests
+
 BeautifulSoup
+
 Navegador Chrome: Instalado y compatible con la versión del controlador (ChromeDriver).
+
 
 Ejemplo de Uso
 
