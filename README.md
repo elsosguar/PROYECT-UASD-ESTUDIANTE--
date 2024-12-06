@@ -1,4 +1,5 @@
-Repositorio: Sistema de Selección de Materias UASD
+Sistema de Selección de Materias UASD
+
 Descripción
 Este proyecto automatiza el proceso de búsqueda y procesamiento de datos relacionados con la selección de materias y cursos en la UASD (Universidad Autónoma de Santo Domingo). Utiliza una combinación de Selenium, requests, y BeautifulSoup para capturar información dinámica de la página oficial y generar resultados procesados.
 
@@ -50,6 +51,7 @@ Los datos procesados se muestran en la consola y en un HTML dinámico accesible 
 Interfaz Gráfica:
 
 Permite finalizar la ejecución del programa con un solo clic y acceder a enlaces relevantes.
+
 Requisitos Previos
 Python 3.8+: Asegúrate de tener Python instalado en tu sistema.
 Dependencias:
@@ -57,31 +59,6 @@ Selenium
 Requests
 BeautifulSoup
 Navegador Chrome: Instalado y compatible con la versión del controlador (ChromeDriver).
-Instrucciones de Instalación
-Clona el Repositorio:
-
-bash
-Copiar código
-git clone https://github.com/tuusuario/uasd-seleccion-materias.git
-cd uasd-seleccion-materias
-Instala las Dependencias:
-
-bash
-Copiar código
-pip install -r requirements.txt
-Ejecuta el Programa:
-
-bash
-Copiar código
-python main.py
-Estructura del Proyecto
-plaintext
-Copiar código
-uasd-seleccion-materias/
-├── main.py               # Código principal
-├── requirements.txt      # Dependencias del proyecto
-├── README.md             # Documentación del proyecto
-└── assets/               # Archivos adicionales, como capturas de pantalla o ejemplos
 
 Ejemplo de Uso
 
